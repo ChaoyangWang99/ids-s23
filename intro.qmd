@@ -77,6 +77,9 @@ order). Add yours; note the syntax of nested list in Markdown.
 + Yan, Jun
     - Make data science more accessible to undergraduates
     - Co-develop a Quarto Book in collaboration with the students
++ Wang, Chaoyang
+    - Learn Deep Learning Algorithms and apply them to high-frequency trading
+    - Become comfortable working with codes and Git
 
 ### Presentation Orders
 
