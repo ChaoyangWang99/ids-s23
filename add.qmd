@@ -1,4 +1,0 @@
-This is a test Section
-It is specifically designed for git add command
-Later on, I will accendently delete this qmd files
-but now, I will add it to the ids-s23 directory
