@@ -1,0 +1,3 @@
+This is a new file
+I just wrote some lines 
+And now I will stop
